@@ -1,0 +1,1 @@
+arrays: conjunto de datos que pueden ser identificados individualmente por medio de su posicion dentro de dicha lista
