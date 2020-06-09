@@ -1,0 +1,7 @@
+for: bucle que se ejecuta una y otra vez siempre y cuando la condicion declarada se cumpla
+
+&&: operador logico Y
+
+||: operador logico O
+
+!: operador logico NO

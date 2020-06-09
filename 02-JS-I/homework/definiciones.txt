@@ -1,0 +1,7 @@
+variables: espacio en memoria asignado a un dato que puede cambiar a lo largo de la ejecucion del programa
+
+strings: tipo de dato (texto)
+
+funciones: trozo de codigo que cumple una funcion especifica y que puede ser ejecutado varias veces dentro del programa
+
+declaraciones: establecen las condiciones que se deben cumplir para que el programa continue de una forma u otra
