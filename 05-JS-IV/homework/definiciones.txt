@@ -1,0 +1,9 @@
+objetos: conjunto de datos a los que se puede acceder por medio de una clave, a diferencia del array que se accede a los datos por su respectivo indice
+
+propiedades: asociacion entre una clave y su valor correspondiente dentro de un objeto 
+
+metodos: son funciones guardadas dentro de un objeto
+
+bucle for in: iteran sobre cada par clave-valor de un objeto
+
+Al usar la notacion de puntos se busca la propiedad del objeto con el literal que pasamos a continuacion del punto, en cambio en la notacion de corchetes puedo pasar en su interior una variable que contenga un string igual a la clave de la propiedad del objeto que buscamos
