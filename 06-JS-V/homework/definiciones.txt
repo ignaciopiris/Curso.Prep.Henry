@@ -1,0 +1,3 @@
+prototype: objeto que se utiliza como fuente de propiedades alternativas, ejemplo, si pido una propiedad a un objeto y esta no se encuentra en dicho objeto, javascript busca la propiedad dentro del prototipo del objeto
+
+constructors: el constructor es un método de la clase y es llamado en el momento de la creación de la instancia del objeto
